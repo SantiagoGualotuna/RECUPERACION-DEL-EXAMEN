@@ -43,6 +43,6 @@ public class Robot {
         // Caso de prueba 1
         int[] pasos1 = {10, 5, -2};
         int[] coordenadas1 = calcularCoordenadas(pasos1);
-        System.out.println("Coordenadas finales: (x: " + coordenadas1[0] + ", y: " + coordenadas1[1] + ")"); // Debería imprimir (x: -5, y: 12)
+        System.out.println("Coordenadas finales: (x: " + coordenadas1[0] + ", y: " + coordenadas1[1] + ")"); 
     }
 }
